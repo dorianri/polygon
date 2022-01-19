@@ -1,0 +1,7 @@
+{
+  "PolygoneAppStack": {
+    "AppSyncAPIURL": "https://seu4yhfdu5f4be33rvjjsjycby.appsync-api.eu-west-1.amazonaws.com/graphql",
+    "AppSyncAPIKey": "da2-2cuxh6yksnaflbsq4omx3xesii",
+    "ProjectRegion": "eu-west-1"
+  }
+}
